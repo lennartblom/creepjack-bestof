@@ -1,6 +1,7 @@
 # CreepJack best of
 
-Notizen zum Sammeln von witzigen [CreepJack](http://creepjack.de) Moderationen.
+Notizen zum Sammeln von witzigen [CreepJack](http://creepjack.de) Moderationen. Das Endresultat soll dann ein 
+zusammen geschnittenes Compilation-Video der Best-Of-Momente werden.
 
 ## Material ohne Episoden-Einordnung
 
