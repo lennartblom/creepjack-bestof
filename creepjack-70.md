@@ -7,5 +7,16 @@
 * *1:03:20*
 * *1:05:11*
 * *1:06:13*
+* *1:06:27*
+* *1:07:07*
+* *1:08:08*
+* *1:09:18*
+* *1:10:09*
+* *1:13:43*
+* *1:20:11*
+* *1:29:53*
+* *1:32:06*
+* *1:34:39*
+* *1:35:04*
 
-Hinweise von der Regie, dass er den Namen immer falsch ausspricht.
+https://www.youtube.com/watch?v=ZciOaa8atm0
