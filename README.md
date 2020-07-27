@@ -9,7 +9,7 @@ Aktueller Stand vom [26.07.2020](https://shared-assets.adobe.com/link/05127271-0
 
 * [Jannes easy win VS HONOR](https://www.twitch.tv/rocketbeanstv/clip/ResoluteStylishBobaNerfRedBlaster?filter=clips&range=all&sort=time)
 
-## Automatische Darstellung von Episoden-Stellen
+## Testdaten Episode 44
 
 {% for episodeBestOf in site.creepjack_44 %}
 
