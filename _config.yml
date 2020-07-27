@@ -1,4 +1,4 @@
 theme: jekyll-theme-leap-day
 collections:
-  creepjack-44
-    output: true
+  creepjack-44:
+    url: https://youtu.be/a1C7nq1c4Lg
