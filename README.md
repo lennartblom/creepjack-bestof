@@ -12,13 +12,13 @@ Aktueller Stand vom [26.07.2020](https://shared-assets.adobe.com/link/05127271-0
 ## Episode 44
 
 {% for episodeBestOf in site.creepjack_44 %}
-* **[{{ episodeBestOf.position }}]({{ site.creepjack_44.youtube_url }}?t={{ episodeBestOf.seconds }})** {{ episodeBestOf.comment }}
+* **[{{ episodeBestOf.position }}](https://youtu.be/a1C7nq1c4Lg?t={{ episodeBestOf.seconds }})** {{ episodeBestOf.comment }}
 {% endfor %}
 
 ## Creepjack Episode 70
 
 {% for episodeBestOf in site.creepjack_70 %}
-* **[{{ episodeBestOf.position }}]({{ site.creepjack_70.youtube_url }}?t={{ episodeBestOf.seconds }})** {{ episodeBestOf.comment }}
+* **[{{ episodeBestOf.position }}](https://youtu.be/ZciOaa8atm0?t={{ episodeBestOf.seconds }})** {{ episodeBestOf.comment }}
 {% endfor %}
 
 ## Material von bestimmten Episoden
