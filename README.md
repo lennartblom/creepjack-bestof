@@ -11,7 +11,7 @@ Aktueller Stand vom [26.07.2020](https://shared-assets.adobe.com/link/05127271-0
 
 ## Automatische Darstellung von Episoden-Stellen
 
-{% for episodeBestOf in site.creepjack-44 %}
+{% for episodeBestOf in site.creepjack_44 %}
 
 * Hier kommt eine Stelle hin: {{ episodeBestOf.position }}
 
