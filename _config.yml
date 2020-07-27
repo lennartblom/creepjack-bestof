@@ -2,3 +2,4 @@ theme: jekyll-theme-leap-day
 collections:
   creepjack_44:
     url: https://youtu.be/a1C7nq1c4Lg
+    output: true
