@@ -13,7 +13,7 @@ Aktueller Stand vom [26.07.2020](https://shared-assets.adobe.com/link/05127271-0
 
 {% for episodeBestOf in site.creepjack_44 %}
 
-* Hier kommt eine Stelle hin: {{ episodeBestOf.position }}
+* Hier kommt eine Stelle hin: {{ episodeBestOf.position }}, {{ episodeBestOf.comment }}
 
 {% endfor %}
 
