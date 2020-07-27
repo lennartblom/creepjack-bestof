@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+collections:
+  creepjack-44
+    output: true
