@@ -1,9 +1,6 @@
 theme: jekyll-theme-leap-day
 collections:
   creepjack_44:
-    sort_by: seconds
     output: true
   creepjack_70:
-    sort_by: seconds
     output: true
-  output: true
