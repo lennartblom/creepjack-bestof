@@ -15,6 +15,12 @@ Aktueller Stand vom [26.07.2020](https://shared-assets.adobe.com/link/05127271-0
 * **[{{ episodeBestOf.position }}]({{ site.creepjack_44.url }}?t={{ episodeBestOf.seconds }})** {{ episodeBestOf.comment }}
 {% endfor %}
 
+## Creepjack Episode 70
+
+{% for episodeBestOf in site.creepjack_70 %}
+* **[{{ episodeBestOf.position }}]({{ site.creepjack_44.url }}?t={{ episodeBestOf.seconds }})** {{ episodeBestOf.comment }}
+{% endfor %}
+
 ## Material von bestimmten Episoden
 
 * [CreepJack#10](creepjack-10.md)
@@ -25,4 +31,3 @@ Aktueller Stand vom [26.07.2020](https://shared-assets.adobe.com/link/05127271-0
 * [CreepJack#46](creepjack-46.md)
 * [CreepJack#47](creepjack-47.md)
 * [CreepJack#63](creepjack-63.md)
-* [CreepJack#70](creepjack-70.md)
