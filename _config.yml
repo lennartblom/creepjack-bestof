@@ -1,11 +1,9 @@
 theme: jekyll-theme-leap-day
 collections:
   creepjack_44:
-    youtube_url: https://youtu.be/a1C7nq1c4Lg
     sort_by: seconds
     output: true
   creepjack_70:
-    youtube_url: https://youtu.be/ZciOaa8atm0
     sort_by: seconds
     output: true
   output: true
